@@ -1,8 +1,8 @@
 ## Hello!! 👋
 
-I'm Daniel, currently learning computer science based in Singapore.
+I'm Daniel, currently doing IT projects based in Singapore.
 
-🖥️ Learning Computer Science fundamentals through Codecademy. I started 9th May 2026.
+🖥️ Coding through Codecademy. I started 9th May 2026.
 I find making repositories with projects and knowledge gained very fun and look forward to it.
 
 ## Current Goals
