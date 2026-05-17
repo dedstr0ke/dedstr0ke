@@ -8,7 +8,7 @@ I'm Daniel, currently doing SOC Analyst related learning in Singapore.
 
 ## Current Goals
 - 📈 Strengthen programming fundamentals
-- 📂 Create a strong portfolio for university applications
+- 📂 Sharpening my skills to be relevant in the IT Industry.
 
 ## About Me
 - 🏃 Did a Half Marathon, 10KMs and HYROX
